@@ -1,4 +1,11 @@
-# Impact Printing 
+### Introduction  
 
-## What is Impact Printing  
-Impact printing 
+### Hardware Setup
+
+### Software Setup
+
+### Process Parameters
+
+### Algorithms
+
+### References
